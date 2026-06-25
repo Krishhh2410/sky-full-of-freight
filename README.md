@@ -219,9 +219,9 @@ python analysis.py
 
 ## Author
 
-**Krish Shah**  
+**Krish Patel**  
 B.Tech Computer Science Engineering — Nirma University, Ahmedabad (2023–2027)  
-[GitHub](https://github.com/Krishhh2410) · [LinkedIn](#) *(add your link)*
+[GitHub](https://github.com/Krishhh2410) ·
 
 ---
 

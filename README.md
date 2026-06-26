@@ -21,7 +21,7 @@ The short answer to what I found: yes, distinct airline profiles exist, and the 
 
 ## Dashboard Preview
 
-> 📊 **[View Live Dashboard →](#)** *(add Power BI link after publishing)*
+
 
 | Executive Overview | Regional Deep Dive | Cluster Intelligence |
 |---|---|---|
